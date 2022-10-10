@@ -5,7 +5,7 @@
      
 <h2>Contact Info:</h2> Email: barcemar003@mysbisd.org 
 
-<h2>Projects:</h2> At the end of the first nine weeks of my junios year I got to create a paper proyotype for our Metro app design.
+<h2>Projects:</h2> At the end of the first nine weeks of my junios year, me and my partner created a paper proyotype for our Metro app.
 
 
   
