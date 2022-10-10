@@ -3,11 +3,11 @@
 
 <h2>About Me:</h2>
         
-<h2>Awards:</h2>
+<h2>Contact Info:</h2>
 
-<h2>Certifications:</h2>
+<h2>Projects:</h2>
 
-<h2>Experiences:</h2>
+
   
 
 
